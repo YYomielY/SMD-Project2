@@ -1,11 +1,11 @@
 package thrones.game.decorator;
 
-import thrones.game.GameOfThrones;
+import thrones.game.CardHandler.Suit;
 
 public class Decorator {
-    protected GameOfThrones.Suit decoratedSuit;
+    protected Suit decoratedSuit;
 
-    public Decorator(GameOfThrones.Suit decoratedSuit) {
+    public Decorator(Suit decoratedSuit) {
         this.decoratedSuit = decoratedSuit;
     }
 

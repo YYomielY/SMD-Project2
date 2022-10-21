@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 import static thrones.game.GameOfThrones.random;
+import thrones.game.CardHandler.*;
 
 public abstract class AbstractPlayer {
 

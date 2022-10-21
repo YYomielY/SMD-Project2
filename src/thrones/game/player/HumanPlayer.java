@@ -8,6 +8,7 @@ import thrones.game.GameOfThrones;
 import java.util.Optional;
 
 import static thrones.game.GameOfThrones.NON_SELECTION_VALUE;
+import thrones.game.CardHandler.*;
 
 public class HumanPlayer extends AbstractPlayer{
 
